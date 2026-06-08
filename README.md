@@ -44,20 +44,20 @@
 
 ## 📂 Featured Projects
 
-### 🌍 WebNova [WebNova](https://github.com/Dilanwos/WebNova)
+### 🌍 [WebNova](https://github.com/Dilanwos/WebNova)
 Project focused on:
 - Web development
 - Digital solutions
 - Automation for entrepreneurs and small businesses
 
-### 👥 Sistema-usuarios
+### 👥 [Sistema-usuarios](https://github.com/Dilanwos/Sistema-usuarios)
 User management system developed to practice:
 - User registration and validation
 - Data organization
 - Logic and backend structure
 - Python fundamentals
 
-### 🎓 Sistema-estudiantes
+### 🎓 [Sistema-estudiantes](https://github.com/Dilanwos/Sistema-gesti-n-estudiantes)
 Student management system focused on:
 - Student registration
 - Data handling and organization
