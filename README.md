@@ -44,7 +44,7 @@
 
 ## 📂 Featured Projects
 
-### 🌍 WebNova
+### 🌍 WebNova [WebNova](https://github.com/Dilanwos/WebNova)
 Project focused on:
 - Web development
 - Digital solutions
