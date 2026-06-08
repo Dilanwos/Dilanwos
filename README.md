@@ -1,6 +1,9 @@
 <p align="center">
   <img src="assets/bannerGitHub.png" alt="Dilan Banner" width="100%">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Web+Developer;Python+Enthusiast;Automation+Learner;Building+Projects+Every+Day" alt="Typing SVG" />
+</p>
 
 # 👋 Hi, I'm Dilan
 
