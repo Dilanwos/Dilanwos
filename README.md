@@ -121,34 +121,4 @@ Student management system developed to practice CRUD operations, data management
 ⭐ Thanks for visiting my profile.
 
 
-# ⭐ GitHub Stats
-
-<p align="center">
-
-<img
-    height="180"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dilanwos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
-
-<img
-    height="180"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dilanwos&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-    src="https://streak-stats.demolab.com?user=Dilanwos&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-    src="https://github-profile-trophy.vercel.app/?username=Dilanwos&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"
-/>
-
-</p>
+# ⭐ GitHub Stats [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dilanwos&theme=highcontrast)](https://git.io/streak-stats)
