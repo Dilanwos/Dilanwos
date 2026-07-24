@@ -121,10 +121,13 @@ Student management system developed to practice CRUD operations, data management
 ⭐ Thanks for visiting my profile.
 
 
-# ⭐ GitHub Stats
+## ⭐ GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dilanwos&theme=highcontrast)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dilanwos&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilanwos&layout=compact&theme=tokyonight" height="170">
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilanwos&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilanwos&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dilanwos&theme=tokyonight" />
+</p>
