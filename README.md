@@ -121,4 +121,5 @@ Student management system developed to practice CRUD operations, data management
 ⭐ Thanks for visiting my profile.
 
 
-# ⭐ GitHub Stats [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dilanwos&theme=highcontrast)](https://git.io/streak-stats)
+# ⭐ GitHub Stats 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dilanwos&theme=highcontrast)](https://git.io/streak-stats)
