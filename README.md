@@ -1,125 +1,203 @@
-<p align="center">
-  <img src="assets/bannerGitHub.png" alt="Dilan Banner" width="100%">
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Web+Developer;Python+Enthusiast;Automation+Learner;Building+Projects+Every+Day" alt="Typing SVG" />
+ <p align="center">
+  <img src="assets/bannerGitHub.png" alt="Dilan - Software Developer" width="100%">
 </p>
 
-# 👋 Hi, I'm Dilan | Python & Flask Developer
+<h1 align="center">Hi, I'm Dilan 👋</h1>
 
-💻 Passionate Python & Flask developer focused on building modern web applications, automation tools, and scalable software projects.
+<h3 align="center">
+  Software Developer | Python | Flask | JavaScript
+</h3>
 
-## 🚀 About Me
+<p align="center">
+  <a href="https://dilanwos.github.io/Portafolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A84FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/Dilanwos">
+    <img src="https://img.shields.io/badge/GitHub-Dilanwos-181717?style=flat-square&logo=github" alt="GitHub">
+  </a>
+</p>
 
-- 🌐 Focused on building modern and scalable web applications.
-- 🐍 Specialized in Python and Flask development.
-- 🗄️ Experienced with SQLAlchemy and relational databases.
-- 🎨 Passionate about clean UI design and user experience.
-- 🚀 Constantly improving my backend development skills.
-- 💡 Building portfolio projects with professional architectures.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=0A84FF&center=true&vCenter=true&width=650&lines=Building+digital+solutions;Developing+web+applications;Exploring+software+architecture;Learning+and+growing+every+day" alt="Typing SVG">
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## About Me
 
-### Languages
+I'm a software developer in training from Bogotá, Colombia, passionate about technology, programming, and building digital solutions.
 
-- Python
-- JavaScript
-- HTML5
-- CSS3
-- SQL
+My main focus is web development, especially backend development with Python and Flask, relational databases, and creating functional, well-structured applications.
 
-### Backend
+I enjoy turning ideas into real projects, exploring new technologies, and continuously improving my technical skills.
 
-- Flask
+- 💻 Focused on **Full Stack Web Development**.
+- 🐍 Developing applications with **Python and Flask**.
+- 🗄️ Working with relational databases and SQLAlchemy.
+- 🎨 Interested in modern UI/UX and responsive interfaces.
+- ⚙️ Exploring automation and software architecture.
+- 🔐 Interested in cybersecurity and secure application development.
+- 🚀 Building real-world projects and expanding my portfolio.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" alt="Languages">
+</p>
+
+**Backend & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,sqlite" alt="Backend technologies">
+</p>
+
+**Tools & Development Environment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Development tools">
+</p>
+
+**Additional Technologies**
+
 - SQLAlchemy
+- Flask-SQLAlchemy
+- Flask-Migrate
+- Alembic
 - Jinja2
 - Werkzeug
+- SweetAlert2
+- Cropper.js
 
-### Database
+**Currently Exploring**
 
-- SQLite
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Canva
-
-### Learning
-
-- REST APIs
-- Authentication
-- Clean Architecture
-- Automation
+- REST API development
+- Software architecture and design patterns
+- Automation and AI-powered workflows
+- Cybersecurity fundamentals
+- Advanced JavaScript
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🌍 [WebNova](https://github.com/Dilanwos/WebNova)
-Project focused on:
-- Web development
-- Digital solutions
-- Automation for entrepreneurs and small businesses
+### 🌐 Personal Portfolio
 
-### 👥 [Sistema-usuarios](https://github.com/Dilanwos/Sistema-usuarios-flask)
-Complete authentication system developed with Flask.
+My personal developer portfolio, designed to showcase my technical profile, projects, skills, and professional development.
 
-Features:
+**Focus:** Personal branding, responsive web design, and project presentation.
 
-- Register
-- Login
-- Logout
-- Roles
-- Admin panel
-- User CRUD
-- Password hashing
-- Session management
+[Visit Portfolio](https://dilanwos.github.io/Portafolio/)
 
-### ⚽ [Sistema-Torneos](https://github.com/Dilanwos/Sistema-Gestion-Torneos)
-Complete football tournament management system developed with Flask following a modular architecture.
+### ⚽ Football Tournament Management System
 
-Features:
-- Team management
-- Player management
-- Complete CRUD operations
-- Responsive and modern interface
-- Image upload support
-- SweetAlert2 confirmations
-- Modular template organization
-- Database integration with SQLAlchemy
+A web application developed with Flask to manage football tournaments and their related information.
 
-### 🎓 [Sistema-estudiantes](https://github.com/Dilanwos/Sistema-gesti-n-estudiantes)
-Student management system developed to practice CRUD operations, data management, and backend programming fundamentals using Python.
-- Student registration
-- Data handling and organization
-- Educational management logic
-- Structured programming practices
+**Key features:**
+- Team management.
+- Player management.
+- CRUD operations.
+- Image uploads.
+- Database integration with SQLAlchemy.
+- Modular application structure.
+- Responsive user interface.
+- Interactive confirmations with SweetAlert2.
 
----
+[View Repository](https://github.com/Dilanwos/Sistema-Gestion-Torneos)
 
-## 🎯 Goals
+### 👥 User Management System
 
-- Become a professional developer
-- Build useful and innovative projects
-- Help businesses grow through technology
-- Continuously improve my technical and creative skills
+An authentication and user administration application developed with Flask.
 
----
+**Key features:**
+- User registration and authentication.
+- Secure password hashing.
+- Login and logout.
+- Role-based access control.
+- Administrator panel.
+- Complete user CRUD.
+- Session management.
+- Protected routes.
 
-## 📫 Contact
+[View Repository](https://github.com/Dilanwos/Sistema-usuarios-flask)
 
-- GitHub: [@Dilanwos](https://github.com/Dilanwos)
-- Location : [Bogotá, Colombia 🇨🇴](https://maps.google.com/?q=Bogota+Colombia)
+### 🎓 Student Management System
+
+A Python project focused on student information management and backend programming fundamentals.
+
+**Key features:**
+- Student registration.
+- Information management.
+- CRUD operations.
+- Data organization.
+- Application logic.
+
+[View Repository](https://github.com/Dilanwos/Sistema-gesti-n-estudiantes)
 
 ---
 
-⭐ Thanks for visiting my profile.
+## Currently Building & Exploring
 
+**KAEL — Clothing Brand & Digital Platform**
 
-# ⭐ GitHub Stats 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dilanwos&theme=highcontrast)](https://git.io/streak-stats)
+Developing a digital experience for a clothing brand focused on exclusivity, originality, innovation, and premium design.
+
+Areas of interest:
+- E-commerce development.
+- Database architecture.
+- Backend logic and application structure.
+- User experience and visual identity.
+
+**WebAstra — Digital Solutions**
+
+Exploring the development of digital solutions for businesses, including:
+- Website design and development.
+- Custom software.
+- Workflow automation.
+- Website maintenance.
+
+---
+
+## Education & Continuous Learning
+
+- **Universidad de La Sabana:** Technical training in software coding tools.
+- **SENA:** Technical training in telematic systems.
+- **SENA:** Cybersecurity concepts (48 hours).
+- Continuous learning in Python, JavaScript, databases, software development, and cybersecurity.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dilanwos&show_icons=true&theme=transparent&hide_border=true&title_color=0A84FF&icon_color=0A84FF&include_all_commits=true" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilanwos&layout=compact&theme=transparent&hide_border=true&title_color=0A84FF" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilanwos&theme=transparent&hide_border=true&ring=0A84FF&fire=0A84FF&currStreakLabel=0A84FF" alt="GitHub Streak">
+</p>
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Dilanwos">
+    <img src="https://img.shields.io/badge/GitHub-Dilanwos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <i>Building, learning, and improving — one project at a time.</i>
+</p>
+
+<p align="center">
+  <sub>Thanks for visiting my GitHub profile! ⭐</sub>
+</p>
